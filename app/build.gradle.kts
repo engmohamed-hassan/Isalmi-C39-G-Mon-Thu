@@ -9,6 +9,10 @@ android {
     buildFeatures {
         viewBinding = true
     }
+    buildFeatures{
+        dataBinding = true
+        viewBinding = true
+    }
     defaultConfig {
         applicationId = "com.route.islami_c39_g_mon_wed"
         minSdk = 23

@@ -7,4 +7,6 @@
     <color name="gold">#FFB7935F</color>
     <color name="goldVariant">#FF847052</color>
     <color name="black2">#FF242424</color>
+    <color name="counter_box_color">#91B7935F</color>
+    <color name="dhikr_box_color">#feef05</color>
 </resources>

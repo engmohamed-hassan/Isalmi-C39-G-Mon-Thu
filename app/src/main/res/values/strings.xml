@@ -3,4 +3,12 @@
     <string name="home">Home</string>
     <string name="profile">Profile</string>
     <string name="islami">Islami</string>
+    <string name="_0">0</string>
+    <array name="azkarList">
+        <item>سبحان الله </item>
+        <item>الحمد لله </item>
+        <item>لا إله إلا الله </item>
+        <item>الله أكبر </item>
+
+    </array>
 </resources>
